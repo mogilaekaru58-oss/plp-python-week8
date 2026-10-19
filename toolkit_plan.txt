@@ -1,0 +1,45 @@
+PLP FUTURE PROOF WITH PYTHON - WEEK 8
+FINAL PROJECT: PERSONAL MINI-TOOLKIT
+
+1. TOOL: To-Do List Manager
+This tool lets users add, view, and remove tasks while the program is running.
+Concepts: lists, loops, conditionals, input/output, and f-strings.
+
+2. TOOL: Simple Calculator
+This tool lets users add, subtract, multiply, and divide two numbers.
+Concepts: variables, input, conditionals, arithmetic operators, and f-strings.
+
+3. TOOL: Even and Odd Number Checker
+This tool checks whether a number is even or odd.
+Concepts: input, integer conversion, conditionals, the modulo operator, and f-strings.
+
+EXACT MAIN MENU TEXT:
+
+===== PERSONAL MINI-TOOLKIT =====
+1. To-Do List Manager
+2. Simple Calculator
+3. Even and Odd Number Checker
+4. Quit
+Enter your choice (1-4):
+
+PROGRAM FLOW:
+- Display a welcoming message when the program starts.
+- Use a loop to display the menu repeatedly.
+- Use if, elif, and else to route menu choices.
+- Return to the menu after each tool finishes.
+- Display a polite message for invalid choices.
+- Exit the loop and display a friendly goodbye when choice 4 is selected.
+
+TESTING PLAN:
+- Test an invalid menu choice.
+- Add, view, and remove tasks.
+- Test calculator operations, including division by zero.
+- Test even and odd numbers.
+- Test the Quit option.
+
+SCREENSHOTS:
+- Main menu and invalid choice.
+- To-Do List Manager in action.
+- Simple Calculator in action.
+- Even and Odd Number Checker in action.
+- Quit message.
